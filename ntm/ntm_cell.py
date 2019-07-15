@@ -17,6 +17,12 @@ class NTMCell():
         self.shift_range = shift_range
 
     def __call__(self, x, prev_state):
+        # prev_state 里面有两个字段
+        """
+        read_vector_list 负责...
+        controller_state 负责...
+
+        """
         prev_read_vector_list = prev_state['read_vector_list']      # read vector in Sec 3.1 (the content that is
                                                                     # read out, length = memory_vector_dim)
         prev_controller_state = prev_state['controller_state']      # state of controller (LSTM hidden state)
