@@ -9,3 +9,4 @@ data/
 playground.py
 result
 state*
+*.sublime-project

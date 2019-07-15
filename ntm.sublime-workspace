@@ -1,0 +1,281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"anchors_",
+				"anchors_per_location"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				" ",
+				"About"
+			],
+			[
+				"python",
+				"Build With: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 199.0,
+		"history":
+		[
+			"(1,2) + 2",
+			"(1,) + 2",
+			"(1，) + 2",
+			"import pandas",
+			"a",
+			"a=1",
+			"python",
+			"pyt"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/haoyang/DevelopProjects/Mask_RCNN-master/mrcnn/utils.py",
+		"/Users/haoyang/DevelopProjects/Mask_RCNN-master/mrcnn/mask_rcnn.sublime-project",
+		"/Users/haoyang/DevelopProjects/Mask_RCNN-master/mrcnn/model.py",
+		"/Users/haoyang/DevelopProjects/Mask_RCNN-master/mrcnn/parallel_model.py",
+		"/Users/haoyang/Documents/实验室/讯飞相关材料/讯飞2019_测量学报告/讯飞分析内容.txt",
+		"/Users/haoyang/Desktop/2018年10月16日10-50-52.txt",
+		"/Users/haoyang/Library/Application Support/MyCardLibrary/ygopro/README.md",
+		"/Users/haoyang/Desktop/学科和素养的匹配201904/规则空间code/IRT.txt",
+		"/Users/haoyang/Desktop/学科和素养的匹配201904/规则空间code/ptheta.m",
+		"/Users/haoyang/Desktop/一土MAP_201904/什么能预测学生map测试的分数.md",
+		"/Users/haoyang/Desktop/2019年04月17日.txt",
+		"/Users/haoyang/Desktop/一土教育_2_课程设计/生气情绪的典型场景.txt",
+		"/Users/haoyang/Desktop/一土文本标注/各个维度较为均匀的标记选择.txt",
+		"/Users/haoyang/Desktop/公众号筛选流程.txt",
+		"/Users/haoyang/Desktop/科大讯飞2019/备用版profile/接下来要做的事.txt",
+		"/Users/haoyang/Downloads/TabPy-0.3.2/README.md",
+		"/Users/haoyang/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/630622a24bdb83284b200a2bfa6bf806/Message/MessageTemp/6038224efab86b23524e0c9c4f030236/File/HW1_Answer_Rcode.R",
+		"/Users/haoyang/Desktop/PBL课程取材.txt",
+		"/Users/haoyang/Desktop/Tableau & tableau server情况介绍.txt",
+		"/Users/haoyang/Desktop/词语聚类（48类）.txt",
+		"/Users/haoyang/Desktop/工作计划2019年02月14日.txt",
+		"/Users/haoyang/Desktop/需求归纳_20190128.txt",
+		"/Users/haoyang/Desktop/三年级错题/技术线路.txt",
+		"/Users/haoyang/Desktop/周排行实现.txt",
+		"/Users/haoyang/Desktop/副词的意义和种类.txt",
+		"/Users/haoyang/Desktop/日工作计划.txt",
+		"/Users/haoyang/Desktop/人均 vs 总数.txt",
+		"/Users/haoyang/Desktop/期末测评：语音文本挖掘.txt",
+		"/Users/haoyang/Desktop/Quidditch功能模块.md",
+		"/Users/haoyang/DevelopProjects/basilisk/README.md",
+		"/Users/haoyang/Desktop/bug_to_fix.txt",
+		"/Users/haoyang/Desktop/接口整理.md",
+		"/Users/haoyang/Desktop/接口整理.txt",
+		"/Users/haoyang/DevelopProjects/quidditch_personal_version/README.md",
+		"/Users/haoyang/DevelopProjects/airquality/README.md",
+		"/Users/haoyang/LearningTrials/jwtlogin 2/README.md",
+		"/Users/haoyang/Desktop/untitled.md",
+		"/Users/haoyang/Desktop/cella记录.txt",
+		"/Users/haoyang/Desktop/数据组服务器使用简要说明.txt",
+		"/Users/haoyang/Desktop/一土BP数据组部分.md",
+		"/Users/haoyang/Desktop/BP需要强调哪些地方.md",
+		"/Users/haoyang/LearningTrials/jwtlogin/README.md",
+		"/Users/haoyang/LearningTrials/jwtlogin_1/README.md",
+		"/Users/haoyang/.ssh/id_rsa.pub",
+		"/Users/haoyang/.ssh/config",
+		"/Users/haoyang/.ssh/id_rsa",
+		"/Users/haoyang/.ssh/id_rsa_sheep.pub",
+		"/Users/haoyang/Desktop/AQdata.json",
+		"/Users/haoyang/AQdata.json",
+		"/Users/haoyang/DevelopProjects/quidditch/myapp/views.py",
+		"/Users/haoyang/今天：定时任务.txt",
+		"/Users/haoyang/Desktop/人员管理接口说明",
+		"/Users/haoyang/Desktop/会议记录",
+		"/Users/haoyang/Desktop/dist/static/js/vendor.dd651c5c7c89a5b50fc8.js",
+		"/Users/haoyang/Desktop/dist/static/js/app.ec1065a5f50f933a9ca7.js",
+		"/Users/haoyang/Desktop/dist/static/js/app.b93f2177737c5d0980e5.js",
+		"/Users/haoyang/Desktop/dist/index.html",
+		"/Users/haoyang/Desktop/1.html",
+		"/Users/haoyang/DevelopProjects/face_tracking-master/README.md",
+		"/Users/haoyang/DevelopProjects/face_tracking-master/face_tracking/face/network.py",
+		"/Users/haoyang/DevelopProjects/face_tracking-master/face_tracking/face/views.py",
+		"/Users/haoyang/DevelopProjects/face_tracking-master/face_tracking/face/serializers.py",
+		"/Users/haoyang/DevelopProjects/face_tracking-master/face_tracking/face/tests.py",
+		"/Users/haoyang/DevelopProjects/face_tracking-master/fixture.py",
+		"/Users/haoyang/DevelopProjects/face_tracking-master/fixtures/logs.json",
+		"/Users/haoyang/DevelopProjects/face_tracking-master/face_tracking/face/models.py",
+		"/Users/haoyang/Desktop/dist(1)/dist/index.html",
+		"/Users/haoyang/DevelopProjects/envs/stepbbillboard.pub",
+		"/Users/haoyang/DevelopProjects/envs/stepbillboardkeys.pub",
+		"/Users/haoyang/DevelopProjects/envs/quidditchvenv/pyvenv.cfg",
+		"/Users/haoyang/DevelopProjects/stepbillboard/manage.py",
+		"/Users/haoyang/DevelopProjects/stepbillboard/Dockerfile",
+		"/Users/haoyang/DevelopProjects/stepbillboard/.gitignore"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 41.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "ntm.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
