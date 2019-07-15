@@ -19,9 +19,12 @@ class NTMCell():
     def __call__(self, x, prev_state):
         # prev_state 里面有两个字段
         """
-        read_vector_list 负责...
+        read_vector_list 是M * w address之后的结果。
         controller_state 负责...
-
+        
+        关于M:
+        一开始就是一块固定大小的记忆模块，随机初始化一下。
+        每次新增一条数据进行计算时，会根据bp来对记忆模块的每一行进行修改。
         """
         prev_read_vector_list = prev_state['read_vector_list']      # read vector in Sec 3.1 (the content that is
                                                                     # read out, length = memory_vector_dim)
@@ -85,7 +88,9 @@ class NTMCell():
         for i in range(self.read_head_num):
             read_vector = tf.reduce_sum(tf.expand_dims(read_w_list[i], dim=2) * prev_M, axis=1)
             read_vector_list.append(read_vector)
-
+        """
+        先读，后写(更新M)
+        """
         # Writing (Sec 3.2)
 
         write_w_list = w_list[self.read_head_num:]
